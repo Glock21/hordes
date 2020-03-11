@@ -1,5 +1,6 @@
 #Test
 import numpy as np
+import random
 
 attaque = 52
 attaque_veille = 37
